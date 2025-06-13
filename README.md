@@ -12,6 +12,12 @@ Almost everything in Wow! is designed as a bag of small utility functions. It's
 easy to customise what parts of Wow! you use, and everything remains interoperable thanks to the use of common Luau types. Not to mention, you get
 wow-tastic strict Luau types for free 🌠
 
+## Contributions
+
+In the spirit of Wow!, all pull requests must begin with "Wow!".
+
+PRs without sufficient enthusiasm will be automatically adjusted by our state-of-the-art artificial intelligence system.
+
 ## License
 
 Licensed the same way as all of my open source projects: BSD 3-Clause + Security Disclaimer.
